@@ -1,6 +1,6 @@
 # Jarvis GUI
 
-![alt text](GUI_images/bg.png)
+![alt text](bg.png)
 
 <img src="GUI_images/bg.png" align="center"
      alt="Size Limit logo by Anton Lovchikov" width="50%">
@@ -70,6 +70,7 @@ or, if you don't want the cmdline to show up use
 
 ### 2. Providing the city name
 1) open `User_data.json` and change the `screen_size` variable
+
    ```
     city_name="you_city_name"
     ```
