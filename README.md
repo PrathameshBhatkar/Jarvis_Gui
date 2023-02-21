@@ -1,6 +1,6 @@
 # Jarvis GUI
 
-<img src="https://github.com/PrathameshBhatkar/Jarvis_Gui/GUI_images/bg.png" align="center"
+<img src="https://github.com/PrathameshBhatkar/Jarvis_Gui/blob/14d53ba910d858e2734f84a06de4feac3f845db3/GUI_images/bg.png" align="center"
      alt="Size Limit logo by Anton Lovchikov" width="50%">
 
 In this project I Looked into making those fancy graphical visuals shown in the Iron man movies
