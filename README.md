@@ -1,9 +1,6 @@
 # Jarvis GUI
 
-![alt text](bg.png)
-
-<img src="GUI_images/bg.png" align="center"
-     alt="Size Limit logo by Anton Lovchikov" width="50%">
+![Jarvis GUI image by Prathamesh](https://user-images.githubusercontent.com/81855723/220389937-d2620677-db6f-4a7c-98bd-f3dbacde47d4.png)
 
 In this project I Looked into making those fancy graphical visuals shown in the Iron man movies
 and made this. This project is a GUI (graphical user interface) made to increase the productivity.
