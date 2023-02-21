@@ -50,6 +50,7 @@ or, if you don't want the cmdline to show up use
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Authors
 
 Prathamesh Bhatkar aka 🐱‍👤 [Ninja Cat Coder](https://www.codegrepper.com/profile/prathamesh-bhatkar)
