@@ -1,5 +1,7 @@
 # Jarvis GUI
 
+![alt text](GUI_images/bg.png)
+
 <img src="GUI_images/bg.png" align="center"
      alt="Size Limit logo by Anton Lovchikov" width="50%">
 
